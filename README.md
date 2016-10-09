@@ -15,7 +15,7 @@ gcc hipster.c
 
 Usage
 =====
-Above would spit out an `a.out` file. Run out with:
+Above would spit out an `a.out` file. Run it with:
 ```bash
 ./a.out
 ```
